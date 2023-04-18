@@ -1,6 +1,6 @@
 ---
 name: 'FEATURE: SUBMIT A POLL RESPONSE'
-about: Describe this issue template's purpose here.
+about: This is a Poll response template
 title: Submit a Poll response
 labels: ''
 assignees: ''
